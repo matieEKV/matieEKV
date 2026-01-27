@@ -8,7 +8,7 @@ I love building clean, responsive web applications while learning and gaining ne
 
 - 🔭 **Currently working on:** Mastering React and modern JavaScript at [Hack Your Future](https://www.hackyourfuture.dk/) and REDI School.
 - 🌱 **I’m currently learning:** React, JavaScript, Python, SQL.
-- [cite_start]🧬 **My background:** I hold a **PhD in Molecular Biology and Biochemistry**[cite: 66], where I specialized in proteins and data analysis.
+- 🧬 **My background:** I hold a **PhD in Molecular Biology and Biochemistry**, where I specialized in proteins and data analysis.
 - ⚡ **Fun fact:** I used to manipulate single yeast cells under a microscope; now I manipulate DOM elements in the browser!
 - 💬 **Ask me about:** Molecular Biology, transitioning into Tech, and books.
 
