@@ -23,6 +23,9 @@ I love building clean, responsive web applications while learning and gaining ne
 **Tools & Environment:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**GitHub Stats:**
+[![Matea's GitHub stats](https://github-readme-stats.vercel.app/api?username=matieEKV)](https://github.com/matieEKV/github-readme-stats)
+
 ---
 
 ### 📫 Connect with Me
