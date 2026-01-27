@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, I'm Matea!
 
-<!--
-**matieEKV/matieEKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Molecular Biologist ➡️ Junior Frontend Developer**
 
-Here are some ideas to get you started:
+I am a scientist-turned-developer with a passion for logic, data, and problem-solving. After 6+ years of working in research labs (where I debugged biological protocols), I am now applying my analytical mindset to debugging code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building clean, responsive web applications while learning and gaining new skills.
+
+- 🔭 **Currently working on:** Mastering React and modern JavaScript at [Hack Your Future](https://www.hackyourfuture.dk/) and REDI School.
+- 🌱 **I’m currently learning:** React, JavaScript, Python, SQL.
+- [cite_start]🧬 **My background:** I hold a **PhD in Molecular Biology and Biochemistry**[cite: 66], where I specialized in proteins and data analysis.
+- ⚡ **Fun fact:** I used to manipulate single yeast cells under a microscope; now I manipulate DOM elements in the browser!
+- 💬 **Ask me about:** Molecular Biology, transitioning into Tech, and books.
+
+---
+
+### 🛠 My Toolbox
+
+**Languages & Frameworks:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+**Tools & Environment:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matea-kanunnikau-83a09048) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mkanunnikau@gmail.com)
