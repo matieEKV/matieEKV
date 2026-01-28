@@ -27,6 +27,9 @@ I love building clean, responsive web applications while learning and gaining ne
 
 [![Matea's GitHub stats](https://github-readme-stats.vercel.app/api?username=matieEKV)](https://github.com/matieEKV/github-readme-stats)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matieEKV&layout=compact)
+
 ---
 
 ### 📫 Connect with Me
