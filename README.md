@@ -25,7 +25,7 @@ I love building clean, responsive web applications while learning and gaining ne
 [![CodeWars Badge](https://www.codewars.com/users/matieEKV/badges/micro)](https://www.codewars.com/users/matieEKV)
 
 
-![Matea's GitHub stats] (github-readme-stats-five-opal-89.vercel.app)
+![Matea's GitHub stats](github-readme-stats-five-opal-89.vercel.app)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matieEKV&layout=compact)
