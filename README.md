@@ -27,6 +27,8 @@ I love building clean, responsive web applications while learning and gaining ne
 
 ![Matea's Stats](https://github-readme-stats-five-opal-89.vercel.app/api?username=matieEKV&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=matieEKV&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats-five-opal-89.vercel.app/api/top-langs/?username=matieEKV&layout=compact&theme=tokyonight)
 
 ---
