@@ -25,9 +25,11 @@ I love building clean, responsive web applications while learning and gaining ne
 [![CodeWars Badge](https://www.codewars.com/users/matieEKV/badges/micro)](https://www.codewars.com/users/matieEKV)
 
 
-![Matea's GitHub stats](https://github-readme-stats-five-opal-89.vercel.app/api?username=matieEKV&show_icons=true&theme=tokyonight)
+![Total Commits](https://img.shields.io/github/commit-activity/m/matieEKV?style=for-the-badge&color=black&labelColor=333333)
 
-![Top Langs](https://github-readme-stats-five-opal-89.vercel.app/api/top-langs/?username=matieEKV&layout=compact&show_icons=true&theme=tokyonight)
+![Repo Count](https://img.shields.io/github/repos/count/matieEKV?style=for-the-badge&color=black&labelColor=333333)
+
+![Top Language](https://img.shields.io/github/languages/top/matieEKV/sorting-hat?style=for-the-badge&color=black&labelColor=333333)
 
 ---
 
